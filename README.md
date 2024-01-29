@@ -1,6 +1,6 @@
 # Lazy Routing & data fetching | React Router + React Query
 
-My playground for trying various ways of loading, fetching and caching data white using React Router's v6 loaders.
+My playground for trying various ways of loading, fetching and caching data using React Router's v6 loaders.
 
 It includes an implementation of a lazy router in React Router v6 using its data routers and loaders, in combination with React Query's caching.
 
